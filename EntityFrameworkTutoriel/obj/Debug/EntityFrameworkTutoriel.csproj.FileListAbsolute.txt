@@ -1,0 +1,1 @@
+D:\Entity Framework\EntityFrameworkTutoriel\EntityFrameworkTutoriel\bin\Debug\EntityFrameworkTutoriel.exe.config
