@@ -10,6 +10,7 @@ namespace EntityFrameworkTutoriel
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine(   salam alikom);
         }
     }
 }
